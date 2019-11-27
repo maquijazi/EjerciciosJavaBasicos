@@ -21,10 +21,14 @@ public class EjerciciosBasicosJava {
         return false;
     }
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
+    public int multa (int velocidad, boolean birthday){
+    return 0;
+}
+
+/**
+ * @param args the command line arguments
+ */
+public static void main(String[] args) {
         EjerciciosBasicosJava ejercicios = new EjerciciosBasicosJava();
         ejercicios.fiestaArdillas(30, false);
         System.out.println(ejercicios.fiestaArdillas(30, false));
